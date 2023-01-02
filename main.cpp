@@ -1,0 +1,4 @@
+main(){
+retutn 0;
+}
+
