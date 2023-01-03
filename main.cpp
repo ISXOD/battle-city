@@ -1,4 +1,0 @@
-main(){
-retutn 0;
-}
-
